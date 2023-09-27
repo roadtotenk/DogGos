@@ -2,6 +2,9 @@
 
 Welcome to DogGo's, the Adoptable Dog NFT Marketplace that leverages the power of Tableland to support shelter dogs and raise awareness. This project was created for the Open Data Hackathon.
 
+demo: https://youtu.be/h164EbUPMCs
+https://adopt-doggos.netlify.app/
+
 ## Project Overview
 
 Every year, millions of dogs find themselves in shelters, and our mission is to make a difference. DogGo's is an innovative NFT marketplace that connects dog lovers with adoptable dogs while simultaneously raising funds for shelters and rescue organizations.
